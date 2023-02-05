@@ -54,9 +54,9 @@ function M.setup(config)
     terminal_black = tailwind.stone_950,
     fg = tailwind.stone_050,
     fg_dark = tailwind.stone_400,
-    fg_gutter = tailwind.stone_700,
+    fg_gutter = tailwind.stone_600,
     dark3 = tailwind.stone_950, -- NonText?
-    comment = tailwind.stone_600,
+    comment = tailwind.stone_500,
     dark5 = tailwind.stone_600,
     blue = tailwind.cyan_400,
     cyan = tailwind.cyan_500,
